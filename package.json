@@ -8,5 +8,8 @@
   },
   "scripts": {
     "test": "react-scripts test --env=jsdom"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.7"
   }
 }
